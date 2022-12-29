@@ -11,4 +11,8 @@
             -pip install -r requirements.txt
     e rodar o main.py
 
+<p align='center'>
+    <img src="./demostracao.gif">
+</p>
+
 ### Feito por Antonio pedro.
